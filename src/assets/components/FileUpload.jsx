@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import axios from "axios";
 
-const backendURL='http://localhost:5000/upload';
+const backendURL='https://z1techbd.onrender.com';
 
 
 function FileUpload() {
